@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Emoji_Api/static/css/main.fb1705cb.css",
+    "main.js": "/Emoji_Api/static/js/main.3db5d4b1.js",
+    "index.html": "/Emoji_Api/index.html",
+    "main.fb1705cb.css.map": "/Emoji_Api/static/css/main.fb1705cb.css.map",
+    "main.3db5d4b1.js.map": "/Emoji_Api/static/js/main.3db5d4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1705cb.css",
+    "static/js/main.3db5d4b1.js"
+  ]
+}
